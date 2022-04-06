@@ -27,3 +27,31 @@ edad (numero1-nuemro2)
 mostrar (edad)
 
 FIN
+
+# DESAROLLA UN ALGORITMO QUE CALCUALE CUALQUIER NUMERO DE METROS LO PONGA EN YARDAS
+
+INICIO
+
+Declarar  (Numero1 en metros,Yardas)
+
+Asignar (numero1 en metros)
+
+Operacion ( Yardas = Numero1 / 1.094)
+
+Mostrar(Yardas)
+
+FIN
+
+# DESAROLLA UN ALGORITMO QUE CALCUALE CUALQUIER NUMERO SE MULTIPLIQUE POR 9
+
+INICIO 
+
+Declarar (Nunmero1, Resultado)
+
+Asignar (Numero1)
+
+Operacion (Resultado=Numero1 * 9)
+
+Mostrar (Resultado)
+
+FIN
