@@ -1,10 +1,68 @@
 # RETOS
 ## REALIZAR LOS SIGUIENTES RETOS CON SU ALGORITMO Y DIAGRAMA DE FLUJO CORRESPONDIENTE CADA UNO 
 
-* Programa que pida un número y diga si es positivo o negativo
-* Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
-* Un programa que pida una letra y detecte si es una vocal. 
-* Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
-* De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
+## Programa que pida un número y diga si es positivo o negativo
+
+* 1 Inicio
+* 2 Mostar "Ingresa un numero"
+* 3 Adignar Num1
+* 4 Si > "Es positivo"
+* 5 SI NO "Es negativo"
+* 6 Fin 
+
+![image](https://user-images.githubusercontent.com/99523872/164358582-3f39adc0-e49c-4075-985f-6613e8ecc754.png)
+
+
+## Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+
+* 1 Inicio 
+* 2 Declarar s, n
+* 3 Mostrar "Ingresa una letra"
+* 4 Asignar Letra 
+* 5 Si == s o n "Es correcto Hasta que la atinas te falta o traletra son dos"
+* 6 SI NO "Lastima talves con el timepo lo descubras"
+* 7 Fin
+
+![image](https://user-images.githubusercontent.com/99523872/164359152-f4dc2f42-28dd-4fa5-b289-8e275feeaab3.png)
+
+## Un programa que pida una letra y detecte si es una vocal.
+
+* 1 Inicio 
+* 2 Declarar a, e, i, o, u
+* 3 Declarar A. E, I, O, U
+* 4 Mostrar "Ingrese un letra"
+* 5 Asignar Letra
+* 6 Si == a o e o i o o o u "Como supiste que eran Vocales"
+* 7 Si NO "seguro que sabes leer"
+* 8  Si == A o E I o O o U " OOOOO te gustan las mayusacalas"
+* 9 Si No
+* 10 Fin
+
+![image](https://user-images.githubusercontent.com/99523872/164361115-04c3c3a5-ecd1-476d-9687-719b4e8c758b.png)
+
+## Programa que pida 3 números y los muestre en pantalla de menor a mayor. 
+
+* 1 Inicio 
+* 2 Mostra "ingresa un numero"
+* 3 Asignar Num1
+* 4 Mostra "ingresa otro numero"
+* 5 Asignar Num2
+* 6 Mostra "ingresa el ultimo  numero"
+* 7 Asignar Num3
+* 8 SI >Num2 y Num3
+* 9 Si NO <Num2 y Num3 
+* 10 Si >Num1 y Num3
+* 11 SINO <Num1 y Num3
+* 12 SI >Num1 y Num2
+* 13 SI NO <Num1 y Num2 "Ya esta tu y tus nuemros bien acomdados"
+* 14 Fin 
+
+![image](https://user-images.githubusercontent.com/99523872/164364972-2ef2a015-3073-42c2-9984-cedacc2b9e49.png)
+
+
+## De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
+
+
+
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 * Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
