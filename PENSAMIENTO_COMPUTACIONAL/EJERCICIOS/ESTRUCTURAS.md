@@ -62,6 +62,29 @@
 
 ## De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 
+* 1 Inicio
+* 2 Declarar (Mes)int
+* 3 Mostrar "Ingresa un numero"
+* 4 Asignar Mes
+* 5 Caso (Mes)
+* 6 1 Mostrar "Enero"
+* 7 2 Mostrar "Febrero"
+* 8 3 Mostrar "Marzo"
+* 9 4 Mostrar "Abril"
+* 10 5 Mostrar "Mayo"
+* 11 6 Mostrar "Junio"
+* 12 7 Mostrar "Julio"
+* 13 8 Mostrar "Agosto"
+* 14 9 Mostrar "Septiembre"
+* 15 10 Mostrar "Octubre"
+* 16 11 Mostrar "Noviembre"
+* 17 12 Mostrar "Diciembre"
+* 18 Mostrar "error
+* 19 Fin caso
+* 20 Fin
+
+![image](https://user-images.githubusercontent.com/99523872/164531345-6421e76f-4569-4245-af3c-087fc4958645.png)
+
 
 
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
