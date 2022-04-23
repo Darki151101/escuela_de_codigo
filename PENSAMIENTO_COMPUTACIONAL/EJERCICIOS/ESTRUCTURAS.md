@@ -27,6 +27,8 @@
 
 ## Un programa que pida una letra y detecte si es una vocal.
 
+## 1
+
 * 1 Inicio 
 * 2 Declarar a, e, i, o, u
 * 3 Declarar A. E, I, O, U
@@ -39,6 +41,29 @@
 * 10 Fin
 
 ![image](https://user-images.githubusercontent.com/99523872/164361115-04c3c3a5-ecd1-476d-9687-719b4e8c758b.png)
+
+* 1 Inicio
+* 2 Declarar a, e, i, o, u
+* 3 Declarar A. E, I, O, U
+* 4 Mostrar "Ingrese un letra"
+* 5 Asignar Letra
+* 6 Caso (Letra)
+* 7 1 a "Perfecto es una vocal"
+* 8 2 e "Perfecto es una vocal"
+* 9 3 i "Perfecto es una vocal"
+* 10 4 o "Perfecto es una vocal"
+* 11 5 u "Perfecto es una vocal"
+* 12 6 A " WOW te gustan las mayúsculas" 
+* 13 7 E  " WOW te gustan las mayúsculas"
+* 14 8 I  " WOW te gustan las mayúsculas"
+* 15 9 O " WOW te gustan las mayúsculas"
+* 16 10 U  " WOW te gustan las mayúsculas"
+* 17 "Creo que debs regresa a la preescolar"
+* 18 Fin caso
+* 19 Fin 
+
+![image](https://user-images.githubusercontent.com/99523872/164797986-9590e3f7-6706-49a1-b42c-385bded7a016.png)
+
 
 ## Programa que pida 3 números y los muestre en pantalla de menor a mayor. 
 
