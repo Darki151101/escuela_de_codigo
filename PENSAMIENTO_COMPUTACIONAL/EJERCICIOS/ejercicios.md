@@ -18,4 +18,15 @@ hacer un algortimo que te pida las 4 claificacion para promediarlas
 
 ![image](https://user-images.githubusercontent.com/99523872/163237103-a25cb161-7c66-468e-af0c-989209d5d35c.png)
 
+* 1 Inicio 
+* 2 Declarar (i,j,Result)
+* 3 asignar i=1 j=1
+* 3 para(i>0 y i<=10)
+    para(j>0 y j<=10)
+    mostrar i*j
+    j=j+1
+    fin para
+    i=i+1 
+    finpara  
+* 4 fin
 
