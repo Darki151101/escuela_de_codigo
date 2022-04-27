@@ -29,4 +29,94 @@ hacer un algortimo que te pida las 4 claificacion para promediarlas
     i=i+1 
     finpara  
 * 4 fin
+ 
+ 
+ 
+* 1 Inicio
+* 2 Num<-0, i<-0, Cont1<-0, Cont2<-0
+* 3 Mientras i<10 Hacer
+		i=1 + 1
+	* 4 Escribir "Ingresa los precios de sus comprars "
+	* 5	Leer Num
+		Si Num>0 Entonces
+			Cont1<-Cont1 + 1
+			Si Num>0 Entonces
+				Cont2<-Cont2 + 1
+			FinSi
+		SiNo
+	* 6  Escribir "ERROR##############"
+		Fin Si
+	Fin Mientras
+* 7 FIN
+
+
+
+          Inicio
+
+          Cali<-0, i<-0,mayor 7<-0, menor<-0 
+
+           Minetras i<10 i=i + 1
+           Escribir "Ingresar la calificaciom"
+           Leer cal
+      
+          SI cal<7
+        
+           Menor<-menor +1
+           
+           SiNo
+           
+			Mayo7<-Mayo7 + 1
+            
+		FinSi
+        
+        Si cal<=10 y cal>0 Entonces
+        
+			i=i + 1
+            
+		SiNo
+			Escribir "Dato erroneo
+            "
+		Fin Si
+        
+	   Fin Mientras  
+    
+       Escribir "El total de calificaciones mayoar a 7 es: ",Mayo7 
+ 
+	   Escribir "El total de calificaciones menor a 7 es: " ,meno   }
+       
+       Fin
+
+![image](https://user-images.githubusercontent.com/99523872/165597396-6c9a5efb-5ca2-4ee9-9032-bf7c50ca3bb6.png)
+
+      Inico
+
+      Promi<-0, Num_pr<-0,Altura<-0,i<-0,sum<-0
+
+      Escribir "Cuantas Personas quieres saber su altura"
+
+       Leer Num_pr
+
+        Mientras i<Num_pr Hacer
+
+		i=i + 1
+        
+		Escribir "Ingresa la altura ", i
+        
+		Leer Altura
+        
+		sum<-sum + Altura
+        
+		Promi<-sum/Num_pr
+        
+		Fin Mientras
+    
+        Escribir "El promedio de altura de ", Num_pr " personas es ", Promi
+        
+        Fin
+
+![image](https://user-images.githubusercontent.com/99523872/165597529-0b2d5c55-5379-4c66-aa3b-281bada0b762.png)
+
+
+
+
 
