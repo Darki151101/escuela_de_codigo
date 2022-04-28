@@ -30,7 +30,9 @@ hacer un algortimo que te pida las 4 claificacion para promediarlas
     finpara  
 * 4 fin
  
- 
+ ![image](https://user-images.githubusercontent.com/99523872/165803918-29f93d74-5bf6-4857-ac08-05bfb4268d2a.png)
+
+
  
 * 1 Inicio
 * 2 Num<-0, i<-0, Cont1<-0, Cont2<-0
