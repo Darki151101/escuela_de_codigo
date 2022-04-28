@@ -148,3 +148,28 @@ hacer un algortimo que te pida las 4 claificacion para promediarlas
 
 ![image](https://user-images.githubusercontent.com/99523872/165812789-08e51119-7765-4e17-a244-208e715bd81e.png)
 
+
+      Num_sec<-azar(100) + 1
+	Num<-0
+	i<-10
+	Escribir "ADIVINA EL NUMERO"
+	Leer Num
+	Mientras Num=Num_sec y i>0 Hacer
+		i=i - 1
+		
+		Si Num>Num_sec
+			Escribir "El numero es mayor"
+		SiNO 
+			Escribir "El numero es menor"
+		FinSi
+		Escribir "Te quedan " , i " intentos"
+		Escribir "Ingresa otro numero del 1 al 100"
+		Leer Num
+		
+	Fin Mientras
+	Si Num==Num_sec Entonces
+		Escribir "Felicidades le atinaste en ", i "Intentos"
+	SiNo
+		Escribir "Se terminaron las oportunidades, el numero secreto era ", Num_sec
+	FinSi
+
