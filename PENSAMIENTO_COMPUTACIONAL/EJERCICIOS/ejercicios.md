@@ -119,6 +119,32 @@ hacer un algortimo que te pida las 4 claificacion para promediarlas
 ![image](https://user-images.githubusercontent.com/99523872/165597529-0b2d5c55-5379-4c66-aa3b-281bada0b762.png)
 
 
+    Inicio
+    
+    Num<-0
+    
+    Repetir
+    
+      Escribir "Ingres un numero de 0 al 999"
+      
+      Si Num>0 y Num<999
+      
+        Si Num>0 y Num<=9
+	  Escribir "Tu numero es de una de Cifra "
+	  
+	  Si NuSi Num>9 y Num<=91
+	  
+	   Escribir "Tu numero es de dos de Cifra "
+	   
+	   SiNO
+             Escribir "Tu numero es de tres de Cifra"
+      
+      SiNO
+       Escribir "Dato invalido"
+       
+       Hata que Num=0
+   
+        Fin
 
-
+![image](https://user-images.githubusercontent.com/99523872/165812789-08e51119-7765-4e17-a244-208e715bd81e.png)
 
