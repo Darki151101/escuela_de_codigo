@@ -34,22 +34,6 @@ hacer un algortimo que te pida las 4 claificacion para promediarlas
 
 
  
-* 1 Inicio
-* 2 Num<-0, i<-0, Cont1<-0, Cont2<-0
-* 3 Mientras i<10 Hacer
-		i=1 + 1
-	* 4 Escribir "Ingresa los precios de sus comprars "
-	* 5	Leer Num
-		Si Num>0 Entonces
-			Cont1<-Cont1 + 1
-			Si Num>0 Entonces
-				Cont2<-Cont2 + 1
-			FinSi
-		SiNo
-	* 6  Escribir "ERROR##############"
-		Fin Si
-	Fin Mientras
-* 7 FIN
 
 
 
