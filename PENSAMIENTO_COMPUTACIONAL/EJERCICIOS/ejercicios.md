@@ -68,7 +68,7 @@ hacer un algortimo que te pida las 4 claificacion para promediarlas
     
        Escribir "El total de calificaciones mayoar a 7 es: ",Mayo7 
  
-	   Escribir "El total de calificaciones menor a 7 es: " ,meno   }
+	   Escribir "El total de calificaciones menor a 7 es: " ,meno   
        
        Fin
 
